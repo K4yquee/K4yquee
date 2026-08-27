@@ -38,16 +38,16 @@ status: focado em Engenharia de Software 🎯
 ### `// estatísticas`
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=synthwave&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=K4yquee&show_icons=true&theme=synthwave&hide_border=true&count_private=true" />
 </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&theme=synthwave&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4yquee&layout=compact&theme=synthwave&hide_border=true" />
 </p>
 
 ---
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=SEU-USUARIO-GITHUB&color=00FF9C&style=flat-square&label=Visitas+no+perfil)
+![Visitor Count](https://komarev.com/ghpvc/?username=K4yquee&color=00FF9C&style=flat-square&label=Visitas+no+perfil)
 
 </div>
