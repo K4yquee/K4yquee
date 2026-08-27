@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Efeito de texto digitando -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+SEU+NOME;Desenvolvedor+em+forma%C3%A7%C3%A3o;Estudando+programa%C3%A7%C3%A3o+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+me+chamo+Kayque+Vicente;Desenvolvedor+em+forma%C3%A7%C3%A3o;Estudando+programa%C3%A7%C3%A3o+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
