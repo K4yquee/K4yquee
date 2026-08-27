@@ -37,8 +37,8 @@ status: focado em Engenharia de Software 🎯
 ### `// estatísticas`
 
 <p align="left">
-<img src="https://github-stats-extended.vercel.app/api?username=K4yquee&show_icons=true&theme=synthwave&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api?username=K4yquee&show_icons=true&theme=dark&hide_border=true" />
 </p>
 <p align="left">
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=K4yquee&layout=compact&theme=synthwave&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=K4yquee&layout=compact&theme=dark&hide_border=true" />
 </p>
